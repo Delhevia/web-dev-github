@@ -1,0 +1,23 @@
+[33mcommit 6f31398ee780c529732319a9e828fa3a713a648f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Aleksandar Stanisic <aco.stanisic8@gmail.com>
+Date:   Sat Mar 25 19:56:13 2023 +0100
+
+    changed test.txt content
+
+[33mcommit 47fa8c47385ab771315cf1a26b7f3250c1fea9eb[m
+Author: Aleksandar Stanisic <aco.stanisic8@gmail.com>
+Date:   Sat Mar 25 19:52:39 2023 +0100
+
+    updates test.txt
+
+[33mcommit 108560a75122c1e4e7c0f19d379f4e7d2ebb0d87[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Aleksandar Stanisic <aco.stanisic8@gmail.com>
+Date:   Sat Mar 25 19:46:25 2023 +0100
+
+    added new feature
+
+[33mcommit 37ad7cb38268d84944006e35c51d826a8a3c814a[m
+Author: Aleksandar Stanisic <aco.stanisic8@gmail.com>
+Date:   Sat Mar 25 19:37:22 2023 +0100
+
+    changed test.txt and added second-commit.txt
